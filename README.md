@@ -12,7 +12,7 @@ The system allows a customer to chat from the mobile app, ask about products or 
 
 
 ### Chat Assistant
-![alt text](images/image-1.pngimage-1.png)
+![alt text](images/image-2.png)
 
 
 ### Quote Management
@@ -21,7 +21,7 @@ The system allows a customer to chat from the mobile app, ask about products or 
 
 
 ### Product Catalog
-![alt text](image-4.png)
+![alt text](images/image-5.png)
 
 
 
