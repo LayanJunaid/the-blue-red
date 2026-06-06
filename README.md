@@ -7,16 +7,16 @@ The system allows a customer to chat from the mobile app, ask about products or 
 # Screenshots
 ## Mobile Application
 ### Home Screen
-![alt text](image.png)
+![alt text](images/image.png)
 
 
 
 ### Chat Assistant
-![alt text](image-1.png)
+![alt text](images/image-1.pngimage-1.png)
 
 
 ### Quote Management
-![alt text](image-2.png) , ![alt text](image-3.png)
+![alt text](images/image-3.png) , ![alt text](images/image-4.png)
 
 
 
